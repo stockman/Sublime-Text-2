@@ -1,0 +1,13 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS Media Query Snippets",
+		"CSSTidy",
+		"HtmlTidy",
+		"Package Control",
+		"Sass",
+		"SCSS"
+	]
+}
