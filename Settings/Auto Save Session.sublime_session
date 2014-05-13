@@ -148,18 +148,18 @@
 			{
 				"selected_items":
 				[
+					[
+						"bak",
+						"background-color"
+					],
+					[
+						"co",
+						"color"
+					]
 				]
 			},
 			"buffers":
 			[
-				{
-					"file": "/Users/tandoori/Sites/Drupal 7 Development/sites/all/themes/omega_bc/sass/omega-bc.hacks.scss",
-					"settings":
-					{
-						"buffer_size": 14007,
-						"line_ending": "Unix"
-					}
-				},
 				{
 					"contents": "body\n{\n	font-size:100%;\n	color:#000;\n	font-size:12px\n}\n\n#skip-to-nav,#page\n{\n}\n\nbody,caption,th,td,input,textarea,select,option,legend,fieldset\n{\n	font-family:Arial,Helvetica,\"Nimbus Sans L\",sans-serif\n}\n\npre,code,kbd,samp,tt,var\n{\n	font-family:\"Courier New\",\"DejaVu Sans Mono\",monospace\n}\n\nh1,h2,h3,h4,h5,h6,p,blockquote,pre,ul,ol,dl,hr,table,fieldset\n{\n	margin:1.5em 0\n}\n\nh1\n{\n	font-size:2em;\n	line-height:1.5em;\n	margin:.75em 0\n}\n\nh2\n{\n	font-size:1.5em;\n	margin:1em 0\n}\n\nh3\n{\n	font-size:1.3em;\n	margin:1.154em 0\n}\n\nh4,h5,h6\n{\n	font-size:1.1em;\n	margin:1.364em 0\n}\n\np\n{\n}\n\nblockquote\n{\n	margin-left:2em;\n	margin-right:2em\n}\n\npre\n{\n	font-size:1.1em;\n	margin:1.364em 0\n}\n\nhr\n{\n	height:1px;\n	border:1px solid #666\n}\n\naddress\n{\n}\n\nul,ol\n{\n	margin:0;\n	padding:0;\n	list-style:none\n}\n\n.item-list ul\n{\n	margin:0;\n	padding:0\n}\n\nul ul,ul ol,ol ol,ol ul,.item-list ul ul,.item-list ul ol,.item-list ol ol,.item-list ol ul\n{\n	margin:0\n}\n\nli\n{\n	margin:0;\n	padding:0;\n	list-style:none\n}\n\n.item-list ul li,ul.menu,ul.menu li,li.expanded,li.collapsed,li.leaf\n{\n	margin:0;\n	padding:0;\n	list-style:none\n}\n\nul\n{\n	list-style-type:disc\n}\n\nul ul\n{\n	list-style-type:circle\n}\n\nul ul ul\n{\n	list-style-type:square\n}\n\nul ul ul ul\n{\n	list-style-type:circle\n}\n\nol\n{\n	list-style-type:decimal\n}\n\nol ol\n{\n	list-style-type:lower-alpha\n}\n\nol ol ol\n{\n	list-style-type:decimal\n}\n\ndl\n{\n}\n\ndt\n{\n	margin:0;\n	padding:0\n}\n\ndd\n{\n	margin:0 0 0 2em;\n	padding:0\n}\n\ntable\n{\n	border-collapse:collapse\n}\n\nth\n{\n	text-align:left;\n	padding:0;\n	border-bottom:none\n}\n\ntbody\n{\n	border-top:none\n}\n\nthead\n{\n}\n\ntfoot\n{\n}\n\ncaption\n{\n}\n\ncolgroup\n{\n}\n\ncol\n{\n}\n\ntr\n{\n}\n\ntd\n{\n	vertical-align:top\n}\n\ntr.even,tr.odd\n{\n	background:none;\n	border:0;\n	padding:0\n}\n\nform\n{\n	margin:0;\n	padding:0\n}\n\nfieldset\n{\n	padding:.5em\n}\n\nlegend\n{\n}\n\nlabel\n{\n}\n\ninput\n{\n}\n\nselect\n{\n}\n\noptgroup\n{\n}\n\noption\n{\n}\n\ntextarea\n{\n}\n\nbutton\n{\n}\n\na:link\n{\n	text-decoration:none\n}\n\na:visited\n{\n}\n\na:hover,a:focus\n{\n	outline:0\n}\n\na:active\n{\n	outline:0\n}\n\nimg\n{\n	border:0\n}\n\nabbr,acronym\n{\n	border-bottom:1px dotted #666;\n	cursor:help;\n	white-space:nowrap\n}\n\nq\n{\n}\n\ncite\n{\n}\n\nstrong,b\n{\n}\n\nem,i\n{\n}\n\ncode,kbd,samp,tt,var\n{\n}\n\ndel\n{\n}\n\nins\n{\n}\n\nbig\n{\n}\n\nsmall\n{\n}\n\nsub\n{\n}\n\nsup\n{\n}\n\n.field-collection-view\n{\n	border:none;\n	margin:0;\n	padding:0\n}\n\nbody\n{\n	font-family:Tahoma,Verdana,Geneva,sans-serif;\n	font-size:14px;\n	line-height:1.58;\n	color:#666;\n	-webkit-font-smoothing:antialiased\n}\n\n#toolbar\n{\n	-webkit-font-smoothing:subpixel-antialiased\n}\n\na\n{\n	color:#0072cf;\n	text-decoration:none\n}\n\na:hover\n{\n}\n\nh1,h2,h3,.field-name-field-title,.field-name-field-subtitle,.field-name-field-section-title,.field-name-field-section-subtitle,.field-name-field-header,.field-name-field-subheader\n{\n	line-height:1.2\n}\n\nh1.page-title\n{\n	text-align:center;\n	line-height:1.1;\n	margin:0;\n	font-size:50px;\n	color:#333\n}\n\nh2.subtitle\n{\n	text-align:center;\n	color:#777;\n	font-weight:400;\n	font-size:26px;\n	margin:5px 0 0\n}\n\n.view-empty h2\n{\n	font-size:1.5em;\n	font-weight:400;\n	color:#333;\n	padding-top:25px\n}\n\n.arvo\n{\n	font-family:'Arvo',Times,serif;\n	font-size:17px;\n	font-weight:700\n}\n\n.button-blue\n{\n	display:block;\n	padding:0 15px;\n	color:#fff;\n	font-weight:700;\n	-webkit-font-smoothing:antialiased;\n	height:31px;\n	line-height:33px;\n	text-align:center;\n	font-size:16px;\n	border:1px solid #007ec1;\n	border-top-color:#008ddb;\n	border-bottom-color:#056ca1;\n	box-shadow:0 4px 5px -5px #000;\n	border-radius:5px;\n	background-color:#0082dd;\n	background-image:-ms-linear-gradient(top,#3FB7EE 0%,#009FE8 3.2%,#0067D3 100%);\n	background-image:-moz-linear-gradient(top,#3FB7EE 0%,#009FE8 3.2%,#0067D3 100%);\n	background-image:-o-linear-gradient(top,#3FB7EE 0%,#009FE8 3.2%,#0067D3 100%);\n	background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0,#3FB7EE),color-stop(0.032,#009FE8),color-stop(1,#0067D3));\n	background-image:-webkit-linear-gradient(top,#3FB7EE 0%,#009FE8 3.2%,#0067D3 100%);\n	background-image:linear-gradient(to bottom,#3FB7EE 0%,#009FE8 3.2%,#0067D3 100%);\n	-pie-background:linear-gradient(top,#3FB7EE 0%,#009FE8 3.2%,#0067D3 100%);\n	behavior:url(/sites/all/themes/benevity/PIE/PIE.php)\n}\n\ninput.button-blue\n{\n	cursor:pointer;\n	height:33px;\n	line-height:31px\n}\n\n.button-blue:hover\n{\n	background-image:-ms-linear-gradient(bottom,#3FB7EE 0%,#009FE8 3.2%,#0067D3 100%);\n	background-image:-moz-linear-gradient(bottom,#3FB7EE 0%,#009FE8 3.2%,#0067D3 100%);\n	background-image:-o-linear-gradient(bottom,#3FB7EE 0%,#009FE8 3.2%,#0067D3 100%);\n	background-image:-webkit-gradient(linear,left bottom,left top,color-stop(0,#3FB7EE),color-stop(0.032,#009FE8),color-stop(1,#0067D3));\n	background-image:-webkit-linear-gradient(bottom,#3FB7EE 0%,#009FE8 3.2%,#0067D3 100%);\n	background-image:linear-gradient(to top,#3FB7EE 0%,#009FE8 3.2%,#0067D3 100%);\n	-pie-background:linear-gradient(bottom,#3FB7EE 0%,#009FE8 3.2%,#0067D3 100%)\n}\n\n.block-center\n{\n	display:table;\n	margin:0 auto\n}\n\n.field-collection-container\n{\n	border-bottom:0;\n	margin-bottom:0\n}\n\ndiv.clear\n{\n	clear:both\n}\n\n.field-name-body ul,.field-name-body ol,.body ul,.body ol\n{\n	padding-left:2em\n}\n\n.field-name-body ul li,.body ul li\n{\n	list-style-type:disc;\n	margin:.5em 0\n}\n\n.field-name-body ol li,.body ol li\n{\n	list-style-type:decimal;\n	margin:.5em 0\n}\n\n.simplemodal-container\n{\n	background:#fff;\n	max-width:920px\n}\n\n.simplemodal-close\n{\n	position:absolute;\n	top:0;\n	right:0;\n	z-index:10;\n	padding:1em;\n	background:#ddd\n}\n\n.simplemodal-close:hover\n{\n	text-decoration:none\n}\n\n.simplemodal-wrap\n{\n	overflow:hidden!important\n}\n\n.carousel-wrapper\n{\n	background:url(/sites/all/themes/benevity/images/shadow-divider.png) center top no-repeat\n}\n\n.carousel .controls ul\n{\n	display:table;\n	margin:0 auto;\n	max-width:820px;\n	table-layout:fixed;\n	border-spacing:0\n}\n\n.controls-top .controls\n{\n	margin-top:52px\n}\n\n.controls-bottom .controls\n{\n	margin-bottom:50px\n}\n\n.carousel .controls li\n{\n	display:table-cell;\n	font-size:17px;\n	height:43px;\n	vertical-align:middle;\n	text-align:center;\n	padding:5px 10px;\n	cursor:pointer;\n	line-height:1.2;\n	color:#333;\n	border:1px solid #cdcfce;\n	border-left:0;\n	background-image:-ms-linear-gradient(top,#F8FCFD 0%,#F8FCFD 44.4%,#FBFBFD 49.99%,#F1F1EF 50%,#F1F0EE 100%);\n	background-image:-moz-linear-gradient(top,#F8FCFD 0%,#F8FCFD 44.4%,#FBFBFD 49.99%,#F1F1EF 50%,#F1F0EE 100%);\n	background-image:-o-linear-gradient(top,#F8FCFD 0%,#F8FCFD 44.4%,#FBFBFD 49.99%,#F1F1EF 50%,#F1F0EE 100%);\n	background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0,#F8FCFD),color-stop(0.444,#F8FCFD),color-stop(0.4999,#FBFBFD),color-stop(0.5,#F1F1EF),color-stop(1,#F1F0EE));\n	background-image:-webkit-linear-gradient(top,#F8FCFD 0%,#F8FCFD 44.4%,#FBFBFD 49.99%,#F1F1EF 50%,#F1F0EE 100%);\n	background-image:linear-gradient(to bottom,#F8FCFD 0%,#F8FCFD 44.4%,#FBFBFD 49.99%,#F1F1EF 50%,#F1F0EE 100%);\n	-pie-background:linear-gradient(top,#F8FCFD 0%,#F8FCFD 44.4%,#FBFBFD 49.99%,#F1F1EF 50%,#F1F0EE 100%);\n	behavior:url(/sites/all/themes/benevity/PIE/PIE.php)\n}\n\n.ie8 .carousel .controls li\n{\n	margin-left:-2px\n}\n\n.carousel .controls .first\n{\n	border-radius:5px 0 0 5px;\n	border-left:1px solid #cdcfce\n}\n\n.carousel .controls .last\n{\n	border-radius:0 5px 5px 0\n}\n\n.carousel .controls .selected\n{\n	border:0;\n	padding-right:11px;\n	color:#fff;\n	border-top:1px solid #151515;\n	border-bottom:1px solid #65747b;\n	background-color:#4b585e;\n	background-image:-ms-linear-gradient(top,#3A454B 0%,#63747B 100%);\n	background-image:-moz-linear-gradient(top,#3A454B 0%,#63747B 100%);\n	background-image:-o-linear-gradient(top,#3A454B 0%,#63747B 100%);\n	background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0,#3A454B),color-stop(1,#63747B));\n	background-image:-webkit-linear-gradient(top,#3A454B 0%,#63747B 100%);\n	background-image:linear-gradient(to bottom,#3A454B 0%,#63747B 100%);\n	-pie-background:linear-gradient(top,#3A454B 0%,#63747B 100%);\n	behavior:url(/sites/all/themes/benevity/PIE/PIE.php)\n}\n\n.carousel .controls .selected.first\n{\n	padding-left:16px\n}\n\n.carousel .controls .control-count-2 li\n{\n	width:50%\n}\n\n.carousel .controls .control-count-3 li\n{\n	width:33.333333%\n}\n\n.carousel .controls .control-count-4 li\n{\n	width:25%\n}\n\n.carousel .controls .control-count-5 li\n{\n	width:20%\n}\n\n.carousel .slides\n{\n	height:380px\n}\n\n.carousel .slides li\n{\n	display:none\n}\n\n.carousel .slides li.selected\n{\n	display:block\n}\n\n.carousel li.even .field-type-image\n{\n	float:right\n}\n\n.carousel li.odd .field-type-image\n{\n	float:left\n}\n\n.carousel .field-name-field-image\n{\n	width:440px;\n	height:380px;\n	text-align:center;\n	display:table\n}\n\n.carousel .field-name-field-image .field-items\n{\n	display:table-cell;\n	vertical-align:middle\n}\n\n.carousel .group-copy\n{\n	text-align:center;\n	width:480px;\n	height:380px;\n	display:table-cell;\n	vertical-align:middle\n}\n\n.carousel .even .group-copy\n{\n	padding-left:40px\n}\n\n.carousel .odd .group-copy\n{\n	padding-right:40px\n}\n\n.carousel .slide-count-1 .group-copy\n{\n	text-align:left;\n	padding-left:0;\n	width:520px\n}\n\n.carousel .slides .field-name-field-header\n{\n	font-family:Tahoma,Verdana,Geneva,sans-serif;\n	color:#333;\n	font-size:25px;\n	line-height:30px\n}\n\n.carousel .field-name-field-section-title\n{\n	color:#333;\n	font-size:50px;\n	font-family:'Arvo',Times,serif;\n	font-weight:700;\n	text-align:center;\n	padding-top:45px\n}\n\n.carousel .field-name-field-section-subtitle\n{\n	font-size:25px;\n	color:#777;\n	text-align:center;\n	margin-top:3px\n}\n\n.carousel .field-name-field-body\n{\n	font-size:17px;\n	color:#777;\n	margin-top:15px;\n	line-height:27px\n}\n\n.carousel .field-name-field-carousel-link\n{\n	font-weight:700;\n	color:#0072cf;\n	margin-top:15px\n}\n\n.list-item-header\n{\n	border-bottom:1px solid #d2d2d2;\n	padding:25px 0;\n	min-height:142px;\n	position:relative;\n	display:table;\n	width:100%\n}\n\n.views-row-last .list-item-header\n{\n	border-bottom:0\n}\n\n.list-item-header .field-name-field-image\n{\n	width:220px;\n	display:table-cell;\n	vertical-align:middle\n}\n\n.list-item-header .field-name-field-image a\n{\n	display:block;\n	height:118px;\n	width:209px;\n	padding-bottom:12px;\n	padding-top:12px;\n	background:url(/sites/all/themes/benevity/images/thumb-shadow.png) center bottom no-repeat;\n	margin-left:10px\n}\n\n.list-item-header .field-name-field-image img\n{\n	display:block;\n	border:1px solid #79797b\n}\n\n.list-item-header .content\n{\n	display:table-cell;\n	vertical-align:middle;\n	padding:0 20px\n}\n\n.views-row .list-item-header-image .content\n{\n	width:396px\n}\n\n.list-item-header h2\n{\n	font-size:20px;\n	line-height:25px;\n	font-weight:400;\n	margin:0\n}\n\n.list-item-header h2,.list-item-header h2 a\n{\n	color:#333\n}\n\n.list-item-header .subheader\n{\n	color:#999;\n	margin-top:6px;\n	margin-bottom:0\n}\n\n.list-item-header .subheader div\n{\n	display:inline\n}\n\n.list-item-header .links\n{\n	margin-top:18px\n}\n\n.list-item-header .links a\n{\n	color:#0072cf;\n	font-weight:700\n}\n\n.list-item-header .social\n{\n	float:right;\n	position:absolute;\n	right:20px;\n	bottom:10px\n}\n\n.list-item-header .social label\n{\n	float:left;\n	font-weight:400;\n	color:#333;\n	line-height:25px;\n	margin-right:5px\n}\n\n.list-item-header .social a\n{\n	float:left;\n	width:25px;\n	height:25px;\n	background-position:center center;\n	background-repeat:no-repeat;\n	text-indent:-9000px\n}\n\n.list-item-header .twitter\n{\n	background-image:url(/sites/all/themes/benevity/images/share-twitter.gif)\n}\n\n.list-item-header .facebook\n{\n	background-image:url(/sites/all/themes/benevity/images/share-facebook.gif)\n}\n\n.list-item-header .linkedin\n{\n	background-image:url(/sites/all/themes/benevity/images/share-linkedin.gif)\n}\n\nbody\n{\n	margin:0;\n	padding:0;\n	background:#fff\n}\n\n.page-width\n{\n	width:960px;\n	margin:0 auto;\n	position:relative\n}\n\n#header-wrapper\n{\n	background:#43b9e8\n}\n\n#header\n{\n	height:120px\n}\n\n.front #header\n{\n	height:auto\n}\n\n#nav\n{\n	position:absolute;\n	top:60px;\n	right:0;\n	z-index:499\n}\n\n#nav .region,#nav ul,#nav li\n{\n	float:left\n}\n\n#nav .menu li\n{\n	margin-right:10px\n}\n\n#nav .menu li a\n{\n	color:#fff;\n	font-size:18px;\n	display:block;\n	height:33px;\n	line-height:33px;\n	padding:0 10px\n}\n\n#nav .menu a.active-trail,#nav .menu a:hover\n{\n	border-radius:4px;\n	text-decoration:none;\n	background:url(/sites/all/themes/benevity/images/white25.png);\n	behavior:url(/sites/all/themes/benevity/PIE/PIE.php)\n}\n\n#logo\n{\n	position:absolute;\n	left:0;\n	top:45px;\n	z-index:450\n}\n\n#home-link\n{\n	position:absolute;\n	left:0;\n	top:45px;\n	width:254px;\n	height:50px;\n	text-indent:-9999px;\n	z-index:499;\n	padding:0;\n	background:url(/sites/all/themes/benevity/images/transparent.gif)\n}\n\n#header-second\n{\n	height:63px;\n	background:#f1f7fA\n}\n\n#nav-second\n{\n	height:63px;\n	margin:0 auto\n}\n\n#nav-second ul\n{\n	display:table;\n	margin:0 auto\n}\n\n#nav-second li\n{\n	float:left;\n	width:238px;\n	text-align:center;\n	margin:0;\n	border-left:1px solid #c6cbce;\n	border-right:1px solid #ffe7e9;\n	height:63px\n}\n\n#nav-second li a\n{\n	background:url(/sites/all/themes/benevity/images/nav-second-bg.png) no-repeat center 44px;\n	color:#787878;\n	font-size:18px;\n	display:block;\n	height:63px;\n	line-height:59px;\n	padding-bottom:18px;\n	position:relative;\n	z-index:475\n}\n\n#nav-second li.active-trail a,#nav-second li a:hover\n{\n	background:url(/sites/all/themes/benevity/images/nav-second-bg-active.png) no-repeat center bottom\n}\n\n#nav-second li.first\n{\n	border-left:none\n}\n\n#nav-second li.last\n{\n	border-right:none\n}\n\n#nav-second li a.active-trail,#nav-second li a:hover\n{\n	color:#4498dc;\n	text-decoration:none\n}\n\n#content-top-wrapper\n{\n	min-height:100px;\n	padding-bottom:50px;\n	background-color:#fff;\n	background-image:-ms-linear-gradient(top,#EBEFF2 0%,#fff 100%);\n	background-image:-moz-linear-gradient(top,#EBEFF2 0%,#fff 100%);\n	background-image:-o-linear-gradient(top,#EBEFF2 0%,#fff 100%);\n	background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0,#EBEFF2),color-stop(1,#fff));\n	background-image:-webkit-linear-gradient(top,#EBEFF2 0%,#fff 100%);\n	background-image:linear-gradient(to bottom,#EBEFF2 0%,#fff 100%)\n}\n\n.node-type-landing-page #content-top-wrapper,.node-type-solutions-page #content-top-wrapper\n{\n	padding-bottom:20px\n}\n\n.node-type-homepage #content-top-wrapper\n{\n	background-image:none\n}\n\n#content-top\n{\n	padding-top:24px;\n	background:url(/sites/all/themes/benevity/images/shadow-divider.png) center top no-repeat\n}\n\n#content-top .title-area\n{\n	margin-top:23px\n}\n\n#content-top .tabs,#content-top .messages\n{\n	margin-top:20px\n}\n\n.one-sidebar #content\n{\n	border-top:1px solid #d2d2d2;\n	margin-bottom:45px\n}\n\n.region-sidebar-first\n{\n	padding-top:50px;\n	float:left;\n	width:229px\n}\n\n.region-sidebar-first h2\n{\n	font-weight:400;\n	color:#333;\n	margin-bottom:0;\n	margin-top:0\n}\n\n.region-sidebar-first p\n{\n	margin-top:10px\n}\n\n.region-sidebar-first a\n{\n	font-weight:700\n}\n\nbody.sidebar-first #content-column\n{\n	float:right;\n	width:675px;\n	padding-left:55px;\n	border-left:1px solid #d2d2d2\n}\n\n.region-sidebar-first .menu\n{\n	font-size:21px\n}\n\n.region-sidebar-first .menu li\n{\n	margin-bottom:16px\n}\n\n.region-sidebar-first .menu li a\n{\n	color:#333;\n	font-weight:400;\n	display:block;\n	padding:6px 15px\n}\n\n.region-sidebar-first .menu li a.active-trail,.region-sidebar-first .menu li a:hover\n{\n	background-color:#eee\n}\n\n.region-sidebar-first .menu li li\n{\n	margin-bottom:0\n}\n\n.region-sidebar-first .menu li li a\n{\n	background-color:#fff;\n	padding-left:30px;\n	font-size:14px;\n	padding-top:5px;\n	padding-bottom:5px\n}\n\n.region-sidebar-first .menu li li a.active-trail,.region-sidebar-first .menu li li a:hover\n{\n	background-color:#fff;\n	color:#666\n}\n\n.region-sidebar-first .menu li li a.active-trail\n{\n	font-weight:700\n}\n\nbody.sidebar-second #content-column\n{\n	float:left;\n	width:675px;\n	padding-right:55px;\n	border-right:1px solid #d2d2d2\n}\n\n.region-sidebar-second\n{\n	float:right;\n	width:229px\n}\n\n#block-views-taxonomy-tag-categories-block .views-field-name,#block-views-taxonomy-tag-categories-block .views-field-nid\n{\n	display:inline\n}\n\n#block-views-authors-block .views-field-name,#block-views-authors-block .views-field-nid\n{\n	display:inline\n}\n\n#bottom-wrapper\n{\n	background:#f1f7fa;\n	border-top:1px solid #dad9d5;\n	border-bottom:1px solid #dad9d5\n}\n\n#footer\n{\n	margin:45px 0;\n	font-size:14px\n}\n\n#twitter-bar\n{\n	border:1px solid #d2d2d2;\n	background:#f1f7fa;\n	height:59px;\n	line-height:22px;\n	padding:16px 18px 0;\n	margin:45px 0 43px\n}\n\n#twitter-bar .icon\n{\n	float:left;\n	margin-top:2px\n}\n\n#twitter-bar ul\n{\n	margin-left:64px\n}\n\n#twitter-bar li\n{\n	display:none\n}\n\n#twitter-bar li.current\n{\n	display:block\n}\n\n#footer .region-footer-left\n{\n	float:left;\n	width:305px\n}\n\n#footer .block-webform h2\n{\n	font-family:Tahoma,sans-serif;\n	font-size:24px;\n	font-weight:400;\n	color:#333;\n	margin:0\n}\n\n#footer .block-webform p\n{\n	margin:12px 0 19px\n}\n\n#footer .webform-component-email\n{\n	border-top:1px dashed #d2d2d2;\n	padding-top:25px;\n	margin:0\n}\n\n#footer input.email\n{\n	height:33px;\n	font-size:14px;\n	line-height:33px;\n	padding:2px 12px 0;\n	width:282px;\n	border:1px solid #d2d2d2;\n	border-radius:1px\n}\n\n#footer .block-webform #edit-actions\n{\n	margin:10px 0 0\n}\n\n#footer .node-webform .content .field-type-text-with-summary\n{\n	border:none;\n	padding:0;\n	margin:0\n}\n\n#footer .node-webform .content\n{\n	padding:0\n}\n\n#footer .region-footer-right\n{\n	float:right\n}\n\n#footer .region-footer-right .block\n{\n	float:left\n}\n\n#footer .menu-name-main-menu li\n{\n	float:left;\n	padding-right:20px;\n	min-width:90px\n}\n\n#footer .menu a\n{\n	color:#333;\n	text-transform:uppercase;\n	display:block;\n	padding:5px 0\n}\n\n#footer .menu a:hover,#footer .menu .menu a:hover\n{\n	text-decoration:none;\n	color:#0072cf\n}\n\n#footer .menu .menu li\n{\n	float:none;\n	padding-left:0;\n	text-transform:none\n}\n\n#footer .menu .menu a\n{\n	color:#555;\n	text-transform:none\n}\n\n#footer .charity-portal,#footer .social\n{\n	padding-bottom:6px;\n	padding-top:70px\n}\n\n#footer .charity-portal\n{\n	float:left;\n	font-size:13px\n}\n\n#footer .social\n{\n	float:right\n}\n\n#footer .social label,#footer .social ul,#footer .social li\n{\n	float:left\n}\n\n#footer .social label\n{\n	text-transform:uppercase;\n	font-weight:400;\n	color:#333;\n	line-height:20px;\n	margin-right:10px\n}\n\n#footer .social li a\n{\n	background:url(/sites/all/themes/benevity/images/social-sprite.gif) no-repeat;\n	display:block;\n	height:20px;\n	width:20px;\n	text-indent:-9999px;\n	float:left;\n	margin-right:3px\n}\n\n#footer .social .linkedin\n{\n	background-position:-20px 0\n}\n\n#footer .social .facebook\n{\n	background-position:-40px 0\n}\n\n#footer .social .pinterest\n{\n	background-position:-60px 0;\n	margin-right:0\n}\n\n#footer .legal\n{\n	clear:both;\n	border-top:1px solid #d2d2d2;\n	text-align:right;\n	padding:30px 0 20px;\n	font-size:11px\n}\n\n#footer .legal a\n{\n	color:#555;\n	text-decoration:underline\n}\n\n#footer .legal a:hover\n{\n	text-decoration:none\n}\n\n.hero-image\n{\n	position:absolute;\n	z-index:450;\n	left:0;\n	bottom:0\n}\n\n.hero-image img\n{\n	display:block;\n	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader()\n}\n\n.hero-copy\n{\n	position:absolute;\n	left:442px;\n	top:210px;\n	color:#fff;\n	z-index:475\n}\n\n.hero-copy h1\n{\n	font-size:60px;\n	font-weight:400;\n	line-height:63px;\n	margin:0;\n	font-family:\"HelveticaNeue-Light\",\"Helvetica Neue Light\",\"Helvetica Neue\",Helvetica,\"Arial Narrow\",Arial,\"Lucida Grande\",sans-serif;\n	font-weight:200;\n	letter-spacing:0\n}\n\n.hero-copy h2\n{\n	font-size:25px;\n	font-weight:400;\n	line-height:30px;\n	font-weight:400;\n	opacity:.8\n}\n\n.hero-copy .cta\n{\n	color:#fff;\n	font-size:20px\n}\n\nbody.node-type-home-feature #main-wrapper\n{\n	width:100%\n}\n\nbody.node-type-home-feature #main-wrapper ul.tabs\n{\n	width:960px;\n	margin:0 auto\n}\n\nbody.node-type-home-feature .home-feature-wrapper\n{\n	height:605px;\n	overflow:hidden\n}\n\n.node-home-feature\n{\n	height:580px\n}\n\nbody.node-type-home-feature .node-home-feature\n{\n	background:url(/sites/all/themes/benevity/images/logo.png) 0 45px no-repeat\n}\n\n#home-feature-preview-mainmenu\n{\n	height:32px;\n	width:420px;\n	position:absolute;\n	top:60px;\n	right:0;\n	border-radius:4px;\n	line-height:35px;\n	text-align:center;\n	border:2px solid #fff;\n	color:#fff\n}\n\n#home-feature-preview-menubar\n{\n	background:#fff;\n	height:25px;\n	position:absolute;\n	width:100%;\n	left:0;\n	right:0;\n	bottom:-25px;\n	border-radius:4px 4px 0 0;\n	z-index:450\n}\n\n#header-wrapper\n{\n	z-index:350\n}\n\n.node-type-homepage #header-wrapper\n{\n	height:605px;\n	overflow:hidden\n}\n\n#homepage-cycler\n{\n	height:580px\n}\n\n#homepage-cycler li\n{\n	position:absolute;\n	top:0;\n	left:0\n}\n\n#homepage-cycler .hero-image,#homepage-cycler .hero-copy\n{\n	visibility:hidden\n}\n\n#homepage-cycler li.first .hero-image,#homepage-cycler li.first .hero-copy\n{\n	visibility:visible\n}\n\n#homepage-cycler-controls\n{\n	background:url(/sites/all/themes/benevity/images/homenav-bg.png) 0 0 no-repeat transparent;\n	position:relative;\n	top:-29px;\n	z-index:450\n}\n\n#homepage-cycler-controls ul li\n{\n	border-right:solid 1px #ccc;\n	float:left;\n	height:75px;\n	margin-top:55px\n}\n\n#homepage-cycler-controls ul li#feature-4\n{\n	border-right:none\n}\n\n#homepage-cycler-controls ul li a\n{\n	display:block;\n	cursor:pointer;\n	float:left;\n	color:#333;\n	text-align:center;\n	font-size:17px;\n	width:239px;\n	padding-top:71px;\n	margin-top:-77px;\n	background:url(/sites/all/themes/benevity/images/nav-first-bg.png) center 48px no-repeat\n}\n\n#homepage-cycler-controls ul a strong\n{\n	display:block;\n	font-weight:400;\n	font-size:20px;\n	text-decoration:none\n}\n\n#homepage-cycler-controls ul a label\n{\n	color:#0072cf;\n	font-size:14px;\n	margin-top:10px;\n	cursor:pointer\n}\n\n#homepage-cycler-controls ul a:hover\n{\n	text-decoration:none\n}\n\n#homepage-cycler-controls .active a\n{\n	background:url(/sites/all/themes/benevity/images/nav-first-bg-active.png) center top no-repeat\n}\n\n#homepage-cycler-controls #feature-4 a\n{\n	border-right:none\n}\n\n#homepage-cycler-controls a.button-blue\n{\n	clear:both;\n	top:35px;\n	position:relative\n}\n\n.front #bottom\n{\n	padding:30px 0 40px\n}\n\n.front #bottom h2\n{\n	font-size:35px;\n	color:#333;\n	font-weight:400;\n	margin:0\n}\n\n.front #bottom .list-item-header\n{\n	min-height:0;\n	border:0;\n	padding:10px 0 0\n}\n\n.front #bottom .list-item-header-image\n{\n	padding-top:25px\n}\n\n.front #bottom .list-item-header h2\n{\n	margin:0;\n	font-size:20px\n}\n\n.front #bottom .list-item-header .content\n{\n	padding:0\n}\n\n.front #bottom .list-item-header-image .content\n{\n	width:730px\n}\n\n.front .list-item-header .field-name-field-image\n{\n	width:230px\n}\n\n.front .list-item-header .field-name-field-image a\n{\n	margin-left:0\n}\n\n.node-type-homepage #content-top\n{\n	margin-top:60px\n}\n\n.node-type-homepage .buckets\n{\n	padding-left:10px\n}\n\n.node-type-homepage .buckets li\n{\n	width:280px;\n	float:left;\n	margin-left:50px\n}\n\n.node-type-homepage .buckets li:first-child\n{\n	margin-left:0\n}\n\n.node-homepage .buckets .field-name-field-image\n{\n	text-align:center;\n	height:210px;\n	display:table-cell;\n	vertical-align:middle;\n	width:280px\n}\n\n.node-homepage .buckets .field-name-field-title\n{\n	font-size:20px;\n	color:#333\n}\n\n.node-homepage .buckets .field-name-field-body\n{\n	color:#777;\n	margin-top:10px\n}\n\n.node-homepage .buckets .field-name-field-title,.node-homepage .buckets .field-name-field-body\n{\n	padding-left:10px;\n	padding-right:10px\n}\n\n.node-homepage .buckets ul\n{\n	margin-bottom:35px\n}\n\n.node-type-homepage .callout\n{\n	background:url(/sites/all/themes/benevity/images/shadow-divider.png) center top no-repeat;\n	margin-top:50px;\n	padding-top:40px\n}\n\n.node-type-homepage .callout .copy\n{\n	float:left\n}\n\n.node-type-homepage .callout .image\n{\n	float:right\n}\n\n.node-type-homepage .callout .image img\n{\n	display:block\n}\n\n.node-type-homepage .callout .copy\n{\n	margin-top:60px;\n	margin-left:70px;\n	width:430px\n}\n\n.node-type-homepage .callout .field-name-field-header\n{\n	color:#333;\n	font-size:50px;\n	font-family:'Arvo',Times,serif;\n	font-weight:700;\n	text-align:center\n}\n\n.node-type-homepage .callout .copy .field-name-field-subheader\n{\n	font-size:25px;\n	text-align:center;\n	color:#333\n}\n\n.node-type-homepage .callout .copy .field-type-text-long\n{\n	font-size:18px;\n	color:#777;\n	margin-top:10px;\n	text-align:center;\n	line-height:30px\n}\n\n.node-type-homepage .callout .copy a\n{\n	color:#0072CF;\n	font-size:14px;\n	margin-top:17px;\n	display:block;\n	font-weight:700;\n	text-align:center\n}\n\n.node-type-homepage .checkhome\n{\n	display:none\n}\n\n.node-type-homepage #block-block-2 h2\n{\n	font-size:35px;\n	font-weight:400\n}\n\n.node-type-landing-page #header-wrapper\n{\n	overflow:hidden\n}\n\n.node-type-landing-page #header\n{\n	height:398px\n}\n\n.node-type-landing-page #header .header-image\n{\n	position:absolute;\n	bottom:0;\n	z-index:460\n}\n\n.node-type-landing-page .field-name-field-header\n{\n	font-size:50px;\n	color:#fff;\n	font-family:\"HelveticaNeue-Light\",\"Helvetica Neue Light\",\"Helvetica Neue\",Helvetica,\"Arial Narrow\",Arial,\"Lucida Grande\",sans-serif;\n	line-height:62px\n}\n\n.node-type-landing-page .field-name-field-subheader\n{\n	font-size:20px;\n	color:#d9f1fa;\n	line-height:30px;\n	margin-top:5px\n}\n\n.node-type-landing-page #header .header-image img\n{\n	display:block\n}\n\n.node-type-landing-page #header .header-text\n{\n	position:absolute;\n	left:437px;\n	top:165px;\n	width:475px;\n	z-index:475\n}\n\n.node-type-landing-page #main-wrapper\n{\n	width:100%\n}\n\n.node-type-landing-page .paragraph-wrapper\n{\n	margin-bottom:-60px;\n	position:relative;\n	overflow:hidden\n}\n\n.paragraphs .paragraphs-title\n{\n	font-size:30px;\n	color:#333;\n	text-align:center;\n	margin:0 90px;\n	border-bottom:1px solid #dad9d5;\n	padding:33px 0\n}\n\n.node-type-landing-page .paragraphs\n{\n	background-image:-webkit-linear-gradient(bottom,#eceff1 0px,#fff 300px);\n	background-image:-moz-linear-gradient(bottom,#eceff1 0px,#fff 300px);\n	background-image:-ms-linear-gradient(bottom,#eceff1 0px,#fff 300px);\n	background-image:-o-linear-gradient(bottom,#eceff1 0px,#fff 300px);\n	background-image:linear-gradient(to top,#eceff1 0px,#fff 300px)\n}\n\n.node-type-landing-page .paragraphs .last\n{\n	margin-bottom:0\n}\n\n.node-type-landing-page .paragraphs .last .paragraph\n{\n	background:none\n}\n\n.node-type-landing-page .paragraphs .last .image\n{\n	bottom:0\n}\n\n.node-type-landing-page .image-left .paragraph\n{\n	background-position:left bottom\n}\n\n.node-type-landing-page .image-right .paragraph\n{\n	background-position:right bottom\n}\n\n.node-type-landing-page .paragraph\n{\n	background-repeat:no-repeat;\n	background-image:url(/sites/all/themes/benevity/images/paragraph-divider.png);\n	background-repeat:no-repeat;\n	padding-bottom:1px\n}\n\n.node-type-landing-page .paragraph .copy\n{\n	width:500px;\n	padding-top:110px;\n	padding-bottom:72px;\n	z-index:150;\n	position:relative\n}\n\n.node-type-landing-page .paragraph .field-name-field-subtitle\n{\n	font-size:25px;\n	margin-top:5px;\n	color:#333\n}\n\n.node-type-landing-page .paragraph .field-type-text-long\n{\n	font-size:18px;\n	line-height:1.6;\n	margin-bottom:10px;\n	margin-top:11px;\n	color:#777\n}\n\n.node-type-landing-page .paragraphs .first .copy\n{\n	padding-top:60px;\n	padding-bottom:50px\n}\n\n.node-type-landing-page .paragraphs .field-name-field-title\n{\n	font-size:25px;\n	font-weight:700;\n	color:#333\n}\n\n.node-type-landing-page .paragraph .image\n{\n	position:absolute;\n	bottom:1px;\n	z-index:100\n}\n\n.node-type-landing-page .paragraph .image img\n{\n	display:block\n}\n\n.node-type-landing-page .paragraphs .image-left .image\n{\n	left:0\n}\n\n.node-type-landing-page .paragraphs .image-left .copy\n{\n	float:right;\n	margin-right:50px\n}\n\n.node-type-landing-page .paragraphs .image-right .image\n{\n	right:0\n}\n\n.node-type-landing-page .paragraphs .image-right .copy\n{\n	float:left;\n	margin-left:40px\n}\n\n.node-type-landing-page .carousel-wrapper\n{\n	border-top:1px solid #d2d2d2;\n	background-position:center -2px\n}\n\n.node-type-landing-page .buckets-wrapper\n{\n	border-top:1px solid #d2d2d2;\n	background:url(/sites/all/themes/benevity/images/shadow-divider.png) center -2px no-repeat\n}\n\n.node-type-landing-page .buckets\n{\n	padding-top:48px\n}\n\n.node-type-landing-page .buckets .field-collection-view\n{\n	float:left;\n	width:300px;\n	padding:0 10px;\n	text-align:center;\n	font-weight:400\n}\n\n.node-type-landing-page .buckets .field-collection-container\n{\n	padding-top:10px\n}\n\n.node-type-landing-page .field-name-field-buckets .field-type-text-long.field-name-field-body div div\n{\n	font-size:14px;\n	line-height:24px;\n	margin-top:12px\n}\n\n.node-type-landing-page .field-name-field-buckets .field-name-field-image\n{\n	height:136px;\n	display:table;\n	width:100%\n}\n\n.node-type-landing-page .field-name-field-buckets .field-name-field-image .field-items\n{\n	display:table-cell;\n	vertical-align:middle\n}\n\n.node-type-landing-page .field-name-field-buckets .field-name-field-title\n{\n	font-size:20px;\n	line-height:24px;\n	color:#333\n}\n\n.node-type-landing-page .field-name-field-buckets-title\n{\n	color:#333;\n	font-size:50px;\n	font-family:'Arvo',Times,serif;\n	font-weight:700;\n	text-align:center;\n	line-height:1.1\n}\n\n.node-type-landing-page .field-name-field-buckets-subtitle\n{\n	text-align:center;\n	font-size:25px;\n	line-height:1.2;\n	margin-top:5px\n}\n\n.node-type-landing-page .copy a\n{\n	font-weight:700;\n	display:block\n}\n\n.node-type-blog .blog-tags h3\n{\n	color:#333;\n	margin-top:1.5em;\n	margin-bottom:.5em\n}\n\n.field-name-field-blog-tags .field-item\n{\n	float:left;\n	border-left:solid 1px #b4b4b4;\n	height:14px;\n	margin-bottom:12px\n}\n\n.field-name-field-blog-tags .field-item:first-child\n{\n	border-left:0\n}\n\n.field-name-field-blog-tags .field-item a\n{\n	display:block;\n	height:26px;\n	line-height:26px;\n	margin-top:-6px;\n	padding:0 5px\n}\n\n.field-name-field-blog-tags .field-item:first-child a\n{\n	padding-left:0\n}\n\n#comments\n{\n	border-top:solid 25px #d2d2d2;\n	margin-top:40px\n}\n\n#comments h2.title\n{\n	color:#333;\n	font-weight:400;\n	font-size:26px;\n	margin:30px 0 16px\n}\n\n#comments .comments\n{\n	border-bottom:1px solid #c9c9c9;\n	padding-bottom:55px\n}\n\n#comments .comment\n{\n	background:#f5f5f5;\n	border:1px solid #d2d2d2;\n	padding:10px 10px 0;\n	margin-top:12px\n}\n\n#comments .content\n{\n	border:1px solid #d2d2d2;\n	background:#fff;\n	padding:1.3em 1.8em .3em\n}\n\n#comments .field-name-comment-body,#comments .field-name-comment-body p\n{\n	margin:1em 0\n}\n\n#comments .submitted\n{\n	font-weight:700;\n	color:#333;\n	margin-bottom:3px\n}\n\n#comments .date\n{\n	color:#999\n}\n\n#comments .links\n{\n	float:right\n}\n\n#comments .links li\n{\n	padding:0\n}\n\n#comments .links a\n{\n	display:block;\n	float:left;\n	padding-left:20px;\n	height:28px;\n	line-height:28px\n}\n\n#comments .links li a:first-letter\n{\n	text-transform:uppercase\n}\n\n#comments .comment-reply a\n{\n	padding-left:42px;\n	background:url(/sites/all/themes/benevity/images/comment.gif) 20px 9px no-repeat\n}\n\n#comments .comment-form label\n{\n	font-weight:400;\n	color:#333;\n	font-size:21px;\n	margin-bottom:7px\n}\n\n#comments .comment-form input.form-text\n{\n	border:1px solid #d2d2d2;\n	height:35px;\n	font-size:21px;\n	width:670px\n}\n\n#comments .comment-form textarea\n{\n	font-size:21px;\n	border:1px solid #d2d2d2\n}\n\n#comments .comment-form .form-item-name\n{\n	text-transform:capitalize\n}\n\n#comments .comment-form .form-required\n{\n	color:#333\n}\n\n#comments .filter-wrapper\n{\n	display:none\n}\n\n#comments .comment-form .form-actions\n{\n	margin-top:35px\n}\n\n.region-sidebar-second\n{\n	padding-top:22px\n}\n\n.region-sidebar-second h2\n{\n	font-weight:400;\n	background-color:#f0f0f0;\n	margin-top:28px;\n	margin-bottom:0;\n	padding:10px 20px;\n	color:#333\n}\n\n.region-sidebar-second ul\n{\n	margin-top:10px\n}\n\n.region-sidebar-second .item-list ul li\n{\n	margin-left:20px;\n	border-top:solid 1px #d2d2d2;\n	padding:5px 0;\n	color:#333\n}\n\n.region-sidebar-second .item-list ul li:first-child\n{\n	border-top:none\n}\n\n.region-sidebar-second li a\n{\n	color:#333\n}\n\n.region-sidebar-second .views-row.views-row-last\n{\n	border-bottom:none\n}\n\n.view-id-partners\n{\n	padding-left:1px;\n	margin-right:-1px\n}\n\n.view-partners div a\n{\n	display:block;\n	height:315px;\n	width:315px;\n	border:solid 1px #ccc;\n	background-repeat:no-repeat;\n	background-position:center center;\n	margin-right:3px;\n	margin-bottom:3px\n}\n\n.view-partners div a span\n{\n	display:block;\n	margin-top:278px;\n	text-align:center\n}\n\n.view-partners .views-row\n{\n	float:left\n}\n\n.node-view-page .field-name-body\n{\n	color:#777;\n	line-height:24px;\n	margin-top:14px\n}\n\n.node-view-page .field-name-body p\n{\n	margin-top:.5em\n}\n\n.node-type-view-page .region-content-header\n{\n	background:#f1f7fa;\n	border-bottom:1px solid #d2d2d2;\n	padding:24px 10px 20px\n}\n\n.node-type-view-page .region-content-header .views-field-field-buckets li\n{\n	float:left;\n	width:33.333%;\n	text-align:center\n}\n\n.node-type-view-page .region-content-header .views-field-field-buckets .field-collection-view\n{\n	padding:0 10px\n}\n\n.node-type-view-page .region-content-header .field-name-field-image\n{\n	height:102px\n}\n\n.node-type-view-page .region-content-header .field-name-field-title\n{\n	font-size:20px;\n	color:#333;\n	margin-bottom:10px\n}\n\n.node-type-view-page .bottom .group_content\n{\n	clear:both;\n	margin:0 85px 55px 90px;\n	padding-top:42px\n}\n\n.node-type-view-page .top .group_content\n{\n	margin:0 85px 55px 90px\n}\n\n.node-type-view-page .group_content .field-name-field-header\n{\n	font-size:25px;\n	color:#333\n}\n\n.node-type-view-page .group_content .field-name-field-body\n{\n	font-size:17px;\n	color:#777;\n	line-height:27px;\n	margin-top:15px\n}\n\n.node-type-solutions-page #content-top-wrapper\n{\n	padding-bottom:0\n}\n\n.node-type-solutions-page #main-wrapper\n{\n	width:100%\n}\n\n.node-type-solutions-page .top-feature-wrapper\n{\n	overflow:hidden;\n	height:560px\n}\n\n.top-feature-wrapper .field-name-field-header\n{\n	font-size:25px;\n	line-height:30px;\n	color:#333\n}\n\n.top-feature-wrapper .field-type-text-long\n{\n	line-height:24px;\n	margin-top:10px;\n	color:#777\n}\n\n.top-feature-wrapper .field-name-field-image .field-item\n{\n	height:560px;\n	display:table-cell;\n	vertical-align:middle\n}\n\n.top-feature-wrapper .field-name-field-section-link\n{\n	margin-top:25px;\n	position:relative\n}\n\n.node-type-solutions-page .top-feature .image\n{\n	position:absolute;\n	top:0;\n	right:0\n}\n\n.node-type-solutions-page .top-feature .copy\n{\n	position:relative;\n	width:320px;\n	padding-top:70px;\n	min-height:380px\n}\n\n.node-type-solutions-page .paragraphs .field-collection-view\n{\n	border-bottom:solid 1px #ccc;\n	padding:0;\n	margin:0 90px\n}\n\n.node-type-solutions-page .carousel .slides .field-collection-view\n{\n	border:none\n}\n\n.node-type-solutions-page .paragraphs .field-collection-view-final\n{\n	border:none\n}\n\n.node-type-solutions-page .field-name-field-link .button-blue\n{\n	margin-bottom:50px\n}\n\n.node-type-landing-page .buckets .button-blue\n{\n	margin-bottom:50px;\n	margin-top:20px\n}\n\n.node-type-solutions-page .paragraphs-wrapper\n{\n	border-top:1px solid #d2d2d2;\n	padding-top:0\n}\n\n.field-name-field-content-paragraphs img\n{\n	display:block\n}\n\n.field-name-field-content-paragraphs .field-items .field-item\n{\n	margin:0\n}\n\n.field-name-field-content-paragraphs .paragraph-content\n{\n	width:520px;\n	line-height:24px;\n	color:#777;\n	padding:45px 0 35px\n}\n\n.node-solutions-page .field-name-field-content-paragraphs .paragraph-content\n{\n	width:425px\n}\n\n.node-solutions-page .field-name-field-content-paragraphs .no-image .paragraph-content\n{\n	width:auto\n}\n\n.field-name-field-content-paragraphs .paragraph-content h3\n{\n	color:#333;\n	font-weight:400;\n	font-size:25px;\n	line-height:130%;\n	margin-bottom:10px;\n	margin-top:0\n}\n\n.field-name-field-content-paragraphs .paragraph-content p\n{\n	margin:10px 0\n}\n\n.node-solutions-page .field-collection-container .item-count-odd .even .paragraph-content,.node-solutions-page .field-collection-container .item-count-even .odd .paragraph-content\n{\n	float:left;\n	position:relative;\n	left:0\n}\n\n.node-solutions-page .field-collection-container .item-count-odd .even .paragraph-image,.node-solutions-page .field-collection-container .item-count-even .odd .paragraph-image\n{\n	float:right;\n	position:relative;\n	left:50px\n}\n\n.node-solutions-page .field-collection-container .item-count-odd .odd .paragraph-content,.node-solutions-page .field-collection-container .item-count-even .even .paragraph-content\n{\n	float:right\n}\n\n.node-solutions-page .field-collection-container .item-count-odd .odd .paragraph-image,.node-solutions-page .field-collection-container .item-count-even .even .paragraph-image\n{\n	float:left\n}\n\n.node-solutions-page .field-collection-container .item-count-odd .odd .paragraph-image\n{\n	position:relative;\n	left:10px\n}\n\n.node-solutions-page .field-collection-container .item-count-odd .odd .paragraph-image\n{\n	left:-50px\n}\n\n.page-node-38 .region-sidebar-first .block\n{\n	visibility:hidden\n}\n\n#block-block-4\n{\n	padding:0 20px\n}\n\n.node-type-webform #content-column .node-webform\n{\n	padding-top:50px\n}\n\n.node-webform .content .field-type-text-with-summary\n{\n	border-top:solid 1px #ccc;\n	border-bottom:solid 1px #ccc;\n	padding:45px 0;\n	margin-top:23px\n}\n\n.node-webform .content #webform-component-email label\n{\n	font-size:20px;\n	font-weight:400;\n	color:#333;\n	margin-bottom:10px\n}\n\n#node-20.node-webform .content .field-type-text-with-summary\n{\n	border-top:none;\n	border-bottom:none;\n	padding:0;\n	margin-top:0\n}\n\n.page-node-20 .node-webform .content #webform-client-form-20 #webform-component-email #edit-submitted-email\n{\n	width:669px;\n	height:35px;\n	font-size:20px\n}\n\n.node-webform .content #webform-component-email label .form-required\n{\n	display:none\n}\n\n.node-webform .content #edit-actions\n{\n	margin-top:35px\n}\n\n#block-views-newsletters-block\n{\n	margin-top:40px;\n	border-top:24px solid #d2d2d2;\n	padding-bottom:40px\n}\n\n#block-views-newsletters-block:after\n{\n	content:\".\";\n	display:block;\n	height:0;\n	clear:both;\n	visibility:hidden\n}\n\n#block-views-newsletters-block h2\n{\n	font-size:20px;\n	font-weight:400;\n	color:#232323\n}\n\n#block-views-newsletters-block li\n{\n	float:left;\n	width:200px;\n	margin-right:25px\n}\n\n#block-views-newsletters-block li a\n{\n	font-size:14px;\n	color:#333\n}\n\n.back-to-list\n{\n	padding-bottom:6px;\n	border-bottom:1px solid #d2d2d2\n}\n\n.node-type-blog .node-blog .field-name-field-image\n{\n	float:right;\n	margin-top:35px;\n	margin-bottom:10px;\n	padding-bottom:15px;\n	background:url(/sites/all/themes/benevity/images/image-shadow.gif) center bottom no-repeat\n}\n\n.node-type-blog .node-blog .field-name-field-image img\n{\n	width:343px;\n	height:194px;\n	margin-left:20px;\n	display:block\n}\n\n.node-type-blog .node-blog .field-name-body\n{\n	margin-top:30px\n}\n\n.back-to-list a,#node-38 .field-type-text-with-summary a\n{\n	background-color:#5c5c5c;\n	font-size:14px;\n	color:#fff;\n	display:block;\n	padding:0 5px;\n	margin-top:50px;\n	height:23px;\n	line-height:23px\n}\n\n#node-38 .field-type-text-with-summary a\n{\n	margin:0\n}\n\n#node-38.node-webform .content .field-type-text-with-summary\n{\n	margin-top:0;\n	padding-bottom:0;\n	padding-top:0;\n	border-top:none\n}\n\n#node-38.node-webform .content\n{\n	padding-top:0\n}\n\n#node-38 .webform-component label\n{\n	font-size:20px;\n	margin-bottom:10px;\n	font-weight:400;\n	color:#333\n}\n\n#node-38 .webform-component input.form-text\n{\n	height:29px;\n	width:100%;\n	font-size:21px\n}\n\n#edit-submitted-resume.form-managed-file\n{\n	background-color:#f0f0f0;\n	padding:35px 20px\n}\n\n#edit-submitted-resume-remove-button\n{\n	float:right;\n	width:75px;\n	height:30px;\n	display:block\n}\n\n.field-type-text-with-summary h3\n{\n	margin-bottom:5px;\n	color:#333\n}\n\n#node-17 .top .group_content\n{\n	margin-left:0;\n	margin-right:0\n}\n\n#node-17 .group_content .field-name-field-header\n{\n	margin-left:55px;\n	margin-top:50px\n}\n\n.control-panel-link\n{\n	text-align:right;\n	padding-right:5px;\n	position:absolute;\n	top:-110px;\n	right:0\n}\n\n.view-display-id-collage_grid\n{\n	position:relative;\n	top:29px;\n	padding-bottom:29px\n}\n\n.view-collage img\n{\n	display:block\n}\n\n.view-collage .grid li\n{\n	float:left;\n	margin-right:3px;\n	margin-bottom:3px;\n	width:77px;\n	height:77px;\n	background:#ccc\n}\n\n.view-collage .grid li.placeholder\n{\n	background:none\n}\n\n.view-collage .team li\n{\n	position:absolute\n}\n\n.view-collage .team a .open\n{\n	width:30px;\n	height:30px;\n	background:url(/sites/all/themes/benevity/images/open-triangle.png) no-repeat;\n	position:absolute;\n	right:2px;\n	bottom:2px\n}\n\n.view-collage .team .views-row-1\n{\n	left:160px;\n	top:0\n}\n\n.view-collage .team .views-row-2\n{\n	left:560px;\n	top:80px\n}\n\n.view-collage .team .views-row-3\n{\n	left:240px;\n	top:240px\n}\n\n.view-collage .team .views-row-4\n{\n	left:800px;\n	top:320px\n}\n\n.view-collage .team .views-row-5\n{\n	left:0;\n	top:400px\n}\n\n.view-collage .team .views-row-6\n{\n	left:640px;\n	top:480px\n}\n\n.view-collage .team .views-row-7\n{\n	left:240px;\n	top:640px\n}\n\n.view-collage .team .views-row-8\n{\n	left:480px;\n	top:720px\n}\n\n.view-display-id-team_names\n{\n	position:absolute;\n	top:-32px;\n	width:100%;\n	left:0;\n	right:0\n}\n\n.view-display-id-team_names ul\n{\n	display:table;\n	margin:0 auto\n}\n\n.view-display-id-team_names li\n{\n	display:table-cell;\n	border-left:1px solid #ccc;\n	height:12px\n}\n\n.view-display-id-team_names .views-row-first\n{\n	border-left:0\n}\n\n.view-display-id-team_names a\n{\n	display:block;\n	padding:0 18px;\n	height:40px;\n	line-height:40px;\n	margin:-14px 0;\n	font-size:17px;\n	color:#0072cf;\n	white-space:nowrap\n}\n\n.view-collage .team-popups\n{\n	display:none\n}\n\n#simplemodal-team\n{\n	padding:35px;\n	min-height:350px;\n	max-height:475px\n}\n\n#simplemodal-team .node-person .copy\n{\n	max-height:450px;\n	overflow-y:auto;\n	padding-right:10px\n}\n\n#simplemodal-team .simplemodal-close\n{\n	width:30px;\n	height:30px;\n	padding:10px;\n	background:url(/sites/all/themes/benevity/images/close-triangle.gif) center center no-repeat\n}\n\n.view-display-id-grid_sort\n{\n	position:relative;\n	border-top:1px solid #bbb\n}\n\n.view-display-id-grid_sort .tabledrag-toggle-weight-wrapper\n{\n	position:relative;\n	top:20px;\n	font-size:12px;\n	padding-right:20px\n}\n\n#views-form-collage-grid-sort\n{\n	width:44.3%;\n	border-right:1px solid #bbb\n}\n\n#views-form-collage-grid-sort .views-field-field-image\n{\n	width:110px\n}\n\n#views-form-collage-grid-sort .views-field-field-image img\n{\n	float:right\n}\n\n.view-display-id-grid_sort .attachment\n{\n	position:relative;\n	float:right;\n	width:52%\n}\n\n.view-display-id-grid_sort .view-header\n{\n	font-size:20px;\n	position:absolute;\n	top:0;\n	left:0;\n	width:100%;\n	right:0;\n	padding-top:10px\n}\n\n.view-display-id-grid_sort .view-header a\n{\n	position:absolute;\n	top:-22px;\n	right:0;\n	font-size:14px\n}\n\n.view-display-id-grid_sort .view-header p\n{\n	margin:0\n}\n\n.view-display-id-grid_sort td,.view-display-id-grid_sort th\n{\n	padding:0 0 0 28px;\n	text-align:right\n}\n\n#views-form-collage-team-sort .views-field-field-photo\n{\n	width:184px\n}\n\n#views-form-collage-team-sort .views-field-field-photo img\n{\n	float:right\n}\n\n.node-person .field-name-field-photo\n{\n	float:left;\n	margin-right:25px\n}\n\n.node-person .copy\n{\n	overflow:hidden\n}\n\n.node-person h2\n{\n	font-family:Helvetica,Arial,sans-serif;\n	font-weight:400;\n	color:#000;\n	font-size:27px;\n	margin:0;\n	padding-bottom:10px\n}\n\n.node-person h3\n{\n	font-size:14px;\n	font-weight:400;\n	margin:0\n}\n\n.node-job-posting .apply\n{\n	margin-top:20px;\n	float:left\n}\n\n.node-type-quote #main-wrapper\n{\n	width:100%;\n	margin:0\n}\n\n.node-type-quote .node-quote\n{\n	background-color:#f1f7fa;\n	border-top:1px solid #dad9d5;\n	border-bottom:1px solid #dad9d5\n}\n\n.node-quote .image\n{\n	height:363px;\n	width:650px;\n	background-position:center bottom;\n	background-repeat:no-repeat;\n	margin-left:-130px\n}\n\n.node-quote .copy\n{\n	position:absolute;\n	width:522px;\n	height:363px;\n	right:0;\n	top:0;\n	display:table\n}\n\n.node-quote .text\n{\n	display:table-cell;\n	vertical-align:middle\n}\n\n.node-quote .body\n{\n	font-size:24px;\n	line-height:1.3;\n	color:#333\n}\n\n.node-quote .body p\n{\n	margin:0 0 .25em\n}\n\n.node-quote .source\n{\n	font-weight:700;\n	margin:.75em 0 0\n}\n\n.node-quote .source a\n{\n	color:#666\n}\n\n.page-node-5 .form-item\n{\n	margin:0;\n	padding:10px 0\n}\n\n.page-node-5 .node-webform .content .field-type-text-with-summary\n{\n	border:none;\n	margin-top:0;\n	padding-top:0\n}\n\n.page-node-5 .node-webform .content .field-type-text-with-summary h2\n{\n	margin-top:0;\n	margin-bottom:0;\n	font-size:32px;\n	font-family:'Arvo',Times,serif;\n	font-weight:700;\n	color:#333\n}\n\n.page-node-5 .webform-component label\n{\n	font-size:20px;\n	margin-bottom:10px;\n	font-weight:400;\n	color:#333\n}\n\n.page-node-5 .webform-component input.form-text\n{\n	height:29px;\n	width:669px;\n	font-size:21px\n}\n\n.page-node-5 textarea\n{\n	font-size:21px\n}\n\n.page-node-5 #webform-component-email-address input.form-text\n{\n	width:375px\n}\n\n.page-node-5 #webform-component-phone-number input.form-text\n{\n	width:243px\n}\n\n.page-node-5 #webform-component-email-address\n{\n	float:left\n}\n\n.page-node-5 #webform-component-phone-number\n{\n	float:right\n}\n\n.page-node-5 #webform-component-interested-in\n{\n	clear:both\n}\n\n.page-node-5 #edit-submitted-interested-in\n{\n	font-size:21px\n}\n\n.page-node-5 #edit-submitted-interested-in option\n{\n	padding-left:10px;\n	font-size:21px\n}\n\n.page-node-5 #webform-component-newsletter label\n{\n	margin-bottom:0\n}\n\n.page-node-5 #webform-component-newsletter .form-item\n{\n	padding:0\n}\n\n.page-node-5 #webform-component-newsletter label.option\n{\n	vertical-align:middle\n}\n\n#contact-sidebar\n{\n	padding-right:25px\n}\n\n#contact-sidebar h2\n{\n	height:25px;\n	padding-top:30px\n}\n\n#contact-sidebar h3\n{\n	color:#06c;\n	font-size:16px;\n	border-bottom:dotted 1px #ccc;\n	margin-top:12px;\n	padding-bottom:50px;\n	margin-bottom:15px\n}\n\n#contact-sidebar h4\n{\n	height:25px;\n	padding-top:33px;\n	font-weight:400;\n	font-size:20px;\n	margin-top:0;\n	margin-bottom:0;\n	margin-right:30px;\n	color:#333\n}\n\n#contact-sidebar .address a\n{\n	font-size:16px\n}\n\n#contact-sidebar h4.contactfollow\n{\n	background:none;\n	border-top:dotted 1px #ccc;\n	margin-top:45px;\n	padding-top:45px;\n	margin-right:0;\n	margin-bottom:12px\n}\n\n#contact-sidebar li\n{\n	float:left\n}\n\n#contact-sidebar .follow a\n{\n	text-indent:-9000px;\n	height:40px;\n	width:40px;\n	display:block\n}\n\n#contact-sidebar .tw a\n{\n	background:url(/sites/all/themes/benevity/images/contact-twitter.png) 0 0 no-repeat\n}\n\n#contact-sidebar .fb a\n{\n	background:url(/sites/all/themes/benevity/images/contact-facebook.png) 0 0 no-repeat\n}\n\n#contact-sidebar .pinterest a\n{\n	background:url(/sites/all/themes/benevity/images/contact-pinterest.png) 0 0 no-repeat\n}\n\n#contact-sidebar .linkedin a\n{\n	background:url(/sites/all/themes/benevity/images/contact-linkedin.png) 0 0 no-repeat\n}\n\n#contact-sidebar .yt a\n{\n	background:url(/sites/all/themes/benevity/images/contact-yt.png) 0 0 no-repeat\n}\n\n#contact-sidebar p\n{\n	margin-top:0;\n	margin-bottom:10px\n}\n",
 					"file": "/Users/tandoori/Desktop/Benevity blog/Benevity Blog | Benevity_files/css_tE-FuwqCTLP72SigsE3slql9eF1l7vRCA5lv8eSvTW8.css",
@@ -168,6 +168,22 @@
 					"settings":
 					{
 						"buffer_size": 45727,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/tandoori/Sites/Drupal 7 Development/sites/all/themes/omega_bc/sass/omega-bc.hacks.scss",
+					"settings":
+					{
+						"buffer_size": 14536,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/tandoori/Sites/Drupal 7 Development/sites/all/themes/omega_bc/sass/omega-bc.normalize.scss",
+					"settings":
+					{
+						"buffer_size": 689,
 						"line_ending": "Unix"
 					}
 				}
@@ -208,10 +224,12 @@
 			},
 			"file_history":
 			[
+				"/Volumes/Fatty/Keyboard Maestro/Keyboard Maestro Last Executed.journal",
+				"/Users/tandoori/Sites/Drupal 7 Development/sites/all/themes/omega_bc/sass/omega-bc.hacks.scss"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 35.0
 			},
 			"find_in_files":
 			{
@@ -242,39 +260,11 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/tandoori/Sites/Drupal 7 Development/sites/all/themes/omega_bc/sass/omega-bc.hacks.scss",
-							"settings":
-							{
-								"buffer_size": 14007,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/SCSS/SCSS.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1775.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
 							"file": "/Users/tandoori/Desktop/Benevity blog/Benevity Blog | Benevity_files/css_tE-FuwqCTLP72SigsE3slql9eF1l7vRCA5lv8eSvTW8.css",
 							"settings":
 							{
@@ -285,13 +275,203 @@
 								"selection":
 								[
 									[
-										0,
-										45727
+										10583,
+										10533
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/CSS/CSS.tmLanguage"
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 11494.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/tandoori/Sites/Drupal 7 Development/sites/all/themes/omega_bc/sass/omega-bc.hacks.scss",
+							"settings":
+							{
+								"buffer_size": 14536,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11453,
+										11453
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+									"syntax": "Packages/SCSS/SCSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 75.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/tandoori/Sites/Drupal 7 Development/sites/all/themes/omega_bc/sass/omega-bc.normalize.scss",
+							"settings":
+							{
+								"buffer_size": 689,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										689,
+										689
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+									"syntax": "Packages/SCSS/SCSS.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
